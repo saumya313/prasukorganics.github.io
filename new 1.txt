@@ -1,0 +1,103 @@
+<html>
+
+     <head>
+             
+			  <title>Technology - BBC News</title>
+			  <style type ="text/css">
+			     
+
+				 #topbar {
+                
+                width:1000px;
+                margin:0 auto;
+                height: 40px;
+                
+                
+            }
+			
+			
+			
+			 </style>
+			  
+	</head>
+
+	<body>
+	      <div id="topbar">
+		     <img id="logo" src="bbclogo.png">
+
+          <div id="signin-div" class="topbar-section">	
+		   <img id="signin-image" >
+                
+                <span id="signin-text">Sign in</span>
+				 
+            </div>
+			  <div id="signin-div" class="topbar-section">	
+			  </div>
+			  
+			              <div id="bell-div">
+            
+               
+                
+                <img id="bell" src="belli.jpg">
+            
+            </div>
+			 <div class="topbar-section topbar-menu">
+            
+                News
+            </div>
+			<div class="topbar-section topbar-menu">
+            
+                Sport
+            
+            </div>
+            
+            <div class="topbar-section topbar-menu">
+            
+                Weather
+            
+            </div>
+            
+            <div class="topbar-section topbar-menu">
+            
+                iPlayer
+            
+            </div>
+            
+            <div class="topbar-section topbar-menu">
+            
+                TV
+            
+            </div>
+            
+            <div class="topbar-section topbar-menu">
+            
+                More
+                
+                <img id="more-arrow" src="down.png">
+            
+            </div>
+			 <div class="topbar-section">
+			<input id="search-box" type="text" value="Search">
+                
+                <input type="image" id="magnifying-glass" src="glass.jpg">
+            
+            </div>
+        
+        </div>
+		</body>
+
+</html>
+			
+			
+            
+			
+            
+           
+	
+	
+	
+	
+	</body>
+	
+	
+</html>
